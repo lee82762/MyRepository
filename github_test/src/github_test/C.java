@@ -4,7 +4,7 @@ public class C {
 	public static void main(String arg[]) {
 
 
-		System.out.println("C class");
+		System.out.println("change C class");
 
 
 	}
